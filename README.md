@@ -2,9 +2,6 @@
 
 This repository contains the implementation and evaluation of linear (GLM, Lasso and Elastic Net) and non-linear (Tree Boosting and Multilayer Perceptron) models for predicting stroke outcome in acute-ischemic patients; as well as the implementation of explainability methods to determine clinical predictors (features) importance for outcome prediction. 
 
-The following sections address the implementation of the data imputation methods on RESQ registry data shared with TUD.  It is very important to note that RESQ registry data that could be shared with TUD is from 5 partners on the RESQ+ project only: Czech Republic (registry years 2021 and 2022), Bulgaria (registry years 2020 to 2022) and Poland, Bulgaria, Greece, Romania (registry years 2017 to 2022). 
-has context menu
-
 ## Publication
 
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231166
